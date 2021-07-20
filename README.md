@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach to me on my E-mail ID at anuradhamishra191998@gmail.com
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 Talking about myself, my name is ANURADHA MISHRA.
 I have completed my graduation recently in 2020, from HMR Institute of Technology and Management affiliated to Guru Gobind Singh Indraprastha University in New Delhi.
@@ -21,18 +21,23 @@ I have acquired so many skills throughout my graduation. They are :
 - MySQL <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" width="25px">
 - PostgreSQL <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="20px">
 - MATLAB <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" width="20px">
-- AWS <img src="https://thetechportal.com/wp-content/uploads/2019/12/aws-logo.png" width="25px">
+- AWS <img src="https://thetechportal.com/wp-content/uploads/2019/12/aws-logo.png" width="30px">
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 I have completed many projects during my graduatiion. They are :
 - Chatbot: A COVID-19 Helper <img src="https://media.tenor.com/images/e67a4f3ccadcbf4888111ccf06166733/tenor.gif" width="20px">
-- GUI-Based RealTime Gender Classification System
-- Smart Mirror using Raspberry Pi <img src="https://media.tenor.com/images/d37413e39c02ef2a431d5a0592650170/tenor.gif" width="20px">
-- ECommerce Website using WordPress and AWS
+- GUI-Based RealTime Gender Classification System &#9794;&#9792;
+- Smart Mirror using Raspberry Pi  <img src="https://miro.medium.com/max/4800/1*8ie9uaMdschRRgAM79jpFA.png" width="45px">
+- ECommerce Website using WordPress and AWS <img src="https://thetechportal.com/wp-content/uploads/2019/12/aws-logo.png" width="30px">
 - Snake Game using C++ &#128013;
 
 Thank you so much for visiting my profile!
+
+<img src="https://media.tenor.com/images/0d5910b9e59cade013ebff217a80b10b/tenor.gif" width="200px">
+
 Looking forward to see you again!!!
+
 Signing off!
-Anuradha Mishra
+
+Anuradha Mishra!

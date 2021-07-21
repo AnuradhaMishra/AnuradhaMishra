@@ -1,8 +1,7 @@
    <img src="https://media.tenor.com/images/2523a45ae3016ce43021d5802e615101/tenor.gif" width="200px">
 - 👋 Hi, I’m @AnuradhaMishra
 - 👀 I’m interested in Software Developer role.
-- 🌱 I’m currently learning Java Full Stack Development at Revature India
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently attending the training of Java Full Stack Development at Revature India
 - 📫 You can reach to me on my E-mail ID at anuradhamishra191998@gmail.com
 
 ---

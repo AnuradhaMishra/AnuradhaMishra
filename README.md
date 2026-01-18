@@ -78,6 +78,7 @@ I am a **Java Backend Developer** with **4 years of experience** designing scala
 ## 🏆 Awards & Certifications
 
 ### **Certifications**
+* 🏅 <a href="https://learn.microsoft.com/en-us/users/anuradhamishra-0843/credentials/ee7771078c0b22b8">**Microsoft GitHub Copilot Certified**</a>
 * 🏅 **Infosys Certified Spring Microservices Developer**
 * 🏅 **Infosys Certified Spring Front End Web Developer**
 * 🏅 **Infosys Certified Spring Agile Developer**
